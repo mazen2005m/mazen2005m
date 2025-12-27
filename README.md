@@ -21,7 +21,7 @@
 
 <p align="center">
   <!-- Typing SVG by mazen2005m - https://github.com/mazen2005m/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="https://github.com/mazen2005m/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
@@ -57,7 +57,7 @@
   <a href="https://github.com/mazen2005m?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mazen2005m?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/mazen2005m/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/mazen2005m-profile-views"/></a>
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
 
 <br/>
