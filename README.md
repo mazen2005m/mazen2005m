@@ -39,7 +39,7 @@
 </p>
 
 <br/>
-
+</div>
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/mazen2005m/custom-icon-badges -->
 <!-- View counter - https://github.com/mazen2005m/Simple-View-Counter -->
