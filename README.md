@@ -46,7 +46,7 @@
 <p align="center">
   <a href="https://www.youtube.com/mazen2005m?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
-  <a href="https://www.youtube.com/c/DevProTips">
+  <a href="https://www.youtube.com/mazen2005m">
     <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
   <a href="https://github.com/mazen2005m?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mazen2005m?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
